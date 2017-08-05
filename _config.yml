@@ -1,0 +1,8 @@
+title: Kavyabvishwanath.GitHub.io
+description: My Profile
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
